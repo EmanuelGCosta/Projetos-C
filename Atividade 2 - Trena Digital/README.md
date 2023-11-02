@@ -1,1 +1,1 @@
-# Trena Digital 📏
+<h1 style="text-align: center;"> Trena Digital 📏 </h1>
