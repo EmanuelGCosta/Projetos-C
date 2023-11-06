@@ -48,7 +48,6 @@ void loop()
     // Limpar tela display
     lcd.clear();
   }
-
   Serial.print("Valor do Sensor de Gas: ");
   Serial.println(gas);
 
